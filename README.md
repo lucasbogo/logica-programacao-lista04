@@ -1,4 +1,4 @@
-# logica-programacao-lista4
+# logica-programacao-lista4-switch-case
 Exercícos resolvidos em **C** para a disciplina de Lógica de Programação (IFPR) | **SWITCH-CASE**
 
 1. Faça um programa para simular uma calculadora, onde o usuário tem a opção de calcular as 4 operações básicas, mais as operações de resto da divisão, raiz quadrada e exponenciação.
