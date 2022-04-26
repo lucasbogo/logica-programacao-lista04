@@ -5,13 +5,13 @@ Exercícos resolvidos em **C** para a disciplina de Lógica de Programação (IF
 <br>
 
 2. Faça um programa para ler a categoria de uma carteira de motorista e mostrar qual é o tipo de veículo permitido para dirigir.
-  <ol>
-      <li> Categoria A: Moto
-      <li> Categoria B: Carro
-      <li> Categoria C: Caminhão
-      <li> Categoria D: Ônibus
-      <li> Categoria E: Carreta
-  </ol>
+     <ol>
+        <li> Categoria A: Moto
+        <li> Categoria B: Carro
+        <li> Categoria C: Caminhão
+        <li> Categoria D: Ônibus
+        <li> Categoria E: Carreta
+     </ol>
   <br>
   
 3. Faça um programa para ler um número de 1 a 7 e informar o dia da semana correspondente, sendo domingo o dia de número 1. Se o número não corresponder a um dia da semana, é mostrada uma mensagem de erro.
@@ -24,13 +24,13 @@ Exercícos resolvidos em **C** para a disciplina de Lógica de Programação (IF
 <br>
 
 6. Considere a situação em que um cliente faz uma determinada compra em uma loja. Ao realizar o pagamento, são oferecidas as seguintes condições para pagamento. Faça um menu de opções:
-<ol>
-      <li> Pagamento à vista - 15% de desconto sobre o valor total da compra.
-      <li> Pagamento com cheque pré-datado para 30 dias - 10% de desconto sobre o valor total da compra.
-      <li> Pagamento parcelado em 3 vezes - 5% de desconto sobre o valor total da compra.
-      <li> Pagamento parcelado em 6 vezes - não tem desconto.
-      <li> Pagamento parcelado em 12 vezes - 8% de acréscimo sobre o valor total da compra.
-  </ol>
+    <ol>
+          <li> Pagamento à vista - 15% de desconto sobre o valor total da compra.
+          <li> Pagamento com cheque pré-datado para 30 dias - 10% de desconto sobre o valor total da compra.
+          <li> Pagamento parcelado em 3 vezes - 5% de desconto sobre o valor total da compra.
+          <li> Pagamento parcelado em 6 vezes - não tem desconto.
+          <li> Pagamento parcelado em 12 vezes - 8% de acréscimo sobre o valor total da compra.
+    </ol>
   <br>
   
 ```
