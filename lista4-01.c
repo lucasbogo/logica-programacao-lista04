@@ -34,28 +34,28 @@ int main(void)
                 case 1:
                     res = num1 + num2;
                 printf("\nResultado da soma = %.2f\n\n", res);
-                break;
+                    break;
                 case 2:
                     res = num1 - num2;
                 printf("\nResultado da subtracao = %.2f\n\n", res);
-                break;
+                    break;
                 case 3:
                     res = num1 * num2;
                 printf("\nResultado da multiplicacao = %.2f\n\n", res);
-                break;
+                    break;
                 case 4:
-                if (num2 == 0)
-                printf ("\nDivisao por zero!\n\n");
-                else
+                 if  (num2 == 0)
+                 printf ("\nDivisao por zero!\n\n");
+                 else
                 {
                     res = num1 / num2;
                 printf("\nResultado da divisao = %.2f\n\n", res);
                 }
-                break;
+                    break;
                 case 5:
                     raiz = sqrt(num1);
                 printf("\nResultado da raiz 1 = %.2f\n\n", raiz);
-                break;
+                    break;
                 default:
                 printf ("\nOpcao inexistente!\n");
             }
