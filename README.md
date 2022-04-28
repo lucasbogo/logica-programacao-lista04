@@ -5,7 +5,7 @@ Exercícos resolvidos em **C** para a disciplina de Lógica de Programação (IF
 <br>
 
 2. Faça um programa para ler a categoria de uma carteira de motorista e mostrar qual é o tipo de veículo permitido para dirigir.
-     <ol>
+     <ol = a>
         <li> Categoria A: Moto
         <li> Categoria B: Carro
         <li> Categoria C: Caminhão
