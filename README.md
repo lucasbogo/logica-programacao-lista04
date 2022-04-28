@@ -24,6 +24,7 @@ Exercícos resolvidos em **C** para a disciplina de Lógica de Programação (IF
 <br>
 
 6. Considere a situação em que um cliente faz uma determinada compra em uma loja. Ao realizar o pagamento, são oferecidas as seguintes condições para pagamento. Faça um menu de opções:
+<br>
     <ol>
           <li> Pagamento à vista - 15% de desconto sobre o valor total da compra.
           <li> Pagamento com cheque pré-datado para 30 dias - 10% de desconto sobre o valor total da compra.
